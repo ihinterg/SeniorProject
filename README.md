@@ -1,0 +1,1 @@
+This is the code base for my senior project. It runs on the data set form the Kestrel Capstone Cal Poly 2019 or any other large number of java files. Note: Shell scripts will have to change based on the directory system of the java files.
